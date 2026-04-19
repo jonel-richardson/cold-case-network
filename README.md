@@ -63,7 +63,7 @@ User (Browser)
 ## Getting Started
 
 ```bash
-git clone https://github.com/jonelrichardson-spec/cold-case.git
+git clone https://github.com/jonelrichardson/cold-case.git
 cd cold-case
 npm install
 ```
